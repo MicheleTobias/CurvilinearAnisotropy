@@ -1,0 +1,2 @@
+The USGS' Willamette River Bathymetric Data can be downloaded here:
+http://or.water.usgs.gov/projs_dir/will_tmdl/overview.html
